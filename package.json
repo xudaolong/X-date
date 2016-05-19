@@ -1,0 +1,25 @@
+{
+  "name": "X-date",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "keywords": ["日期工具类","仅支持es6","Date"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xudaolong/get-days.git"
+  },
+  "author": "许道龙",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xudaolong/get-days/issues"
+  },
+  "homepage": "https://github.com/xudaolong/get-days#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {}
+}
